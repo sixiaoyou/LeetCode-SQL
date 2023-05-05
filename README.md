@@ -1,2 +1,2 @@
 # LeetCode-SQL
-Record SQL code by the LeetCode.
+Code in LeetCode by SQL.
